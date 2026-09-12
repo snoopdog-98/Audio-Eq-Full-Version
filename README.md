@@ -229,3 +229,6 @@ This repository serves as the official landing page for Audio EQ. The software i
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Audio EQ today!**
+
+---
+**Last updated:** 2026-09-12 08:31:32 UTC
