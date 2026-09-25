@@ -231,4 +231,4 @@ This repository serves as the official landing page for Audio EQ. The software i
 **Get the most recent version of Audio EQ today!**
 
 ---
-**Last updated:** 2026-09-24 22:08:52 UTC
+**Last updated:** 2026-09-25 01:16:52 UTC
